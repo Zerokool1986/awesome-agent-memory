@@ -6,6 +6,7 @@ Thanks for helping keep this list useful. Recommendations of tools, frameworks, 
 
 - **Managed APIs and services**: hosted memory services whose primary purpose is memory for LLM/agent applications.
 - **Open-source frameworks and engines**: libraries and engines you run yourself to give agents long-term memory.
+- **Agent memory workflows and templates**: reusable agent-memory workflows and templates that agents can adopt directly; general prompt packs are out of scope.
 - **MCP memory servers**: memory servers that connect to Model Context Protocol clients.
 - **Benchmarks and evaluation**: suites used to measure agent-memory quality.
 - **Papers**: peer-reviewed or arXiv work on agent memory, long-term context, and memory evaluation.
